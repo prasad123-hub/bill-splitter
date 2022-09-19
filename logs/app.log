@@ -1,0 +1,276 @@
+2022-08-12T18:52:09.777Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T18:53:33.964Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T18:55:02.303Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T18:59:44.009Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T19:00:21.120Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T19:01:35.739Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T19:01:35.762Z | ERROR   | URL - /api/users/v1/register | status : undefined | message : Cannot read properties of undefined (reading 'find')
+2022-08-12T19:02:13.223Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T19:02:13.277Z | ERROR   | URL - /api/users/v1/register | status : undefined | message : model.user is not a constructor
+2022-08-12T19:02:42.309Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T19:02:42.364Z | ERROR   | URL - /api/users/v1/register | status : undefined | message : Illegal arguments: number
+2022-08-12T19:05:52.540Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T19:17:07.182Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-12T19:31:24.293Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:31:24.321Z | ERROR   | URL : /api/users/v1/profile | API Authentication Fail | message: Token not present
+2022-08-12T19:31:36.469Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-12T19:31:44.454Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:31:44.455Z | ERROR   | URL : /api/users/v1/profile | API Authentication Fail | message: Token not present
+2022-08-12T19:33:47.380Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:33:47.412Z | ERROR   | URL : /api/users/v1/profile | API Authentication Fail | message: Token not present
+2022-08-12T19:35:28.242Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:35:28.271Z | ERROR   | URL : /api/users/v1/profile | API authentication failed | message: Invalid Token
+2022-08-12T19:36:17.167Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:36:17.193Z | ERROR   | URL : /api/users/v1/profile | API Authentication Fail | message: Token not present
+2022-08-12T19:37:04.154Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:37:04.185Z | ERROR   | URL : /api/users/v1/profile | API authentication failed | message: Invalid Token
+2022-08-12T19:40:29.113Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:40:29.141Z | ERROR   | URL : /api/users/v1/profile | API Authentication Fail | message: Token not present
+2022-08-12T19:40:53.641Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:40:53.668Z | ERROR   | URL : /api/users/v1/profile | API Authentication Fail | message: Token not present
+2022-08-12T19:42:10.182Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:42:10.187Z | ERROR   | URL : /api/users/v1/profile | API Authentication Fail | message: Token not present
+2022-08-12T19:42:16.195Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:42:16.198Z | ERROR   | URL : /api/users/v1/profile | API Authentication Fail | message: Token not present
+2022-08-12T19:42:35.540Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-12T19:50:30.345Z | INFO    | API HIT : [GET] /api/users/v1/emaillist
+2022-08-12T19:50:30.366Z | ERROR   | [Invalid Route] /api/users/v1/emaillist
+2022-08-12T19:50:49.349Z | INFO    | API HIT : [GET] /api/users/v1/emaillist
+2022-08-12T19:50:49.367Z | ERROR   | [Invalid Route] /api/users/v1/emaillist
+2022-08-12T19:51:05.296Z | INFO    | API HIT : [GET] /api/users/v1/emaillist
+2022-08-12T19:51:05.297Z | ERROR   | [Invalid Route] /api/users/v1/emaillist
+2022-08-12T19:51:27.920Z | INFO    | API HIT : [GET] /api/users/v1/emaillist
+2022-08-12T19:51:27.946Z | ERROR   | [Invalid Route] /api/users/v1/emaillist
+2022-08-12T19:52:11.437Z | INFO    | API HIT : [GET] /api/users/v1/emaillist
+2022-08-12T20:03:34.482Z | INFO    | API HIT : [POST] /api/users/v1/delete
+2022-08-12T20:03:34.505Z | ERROR   | [Invalid Route] /api/users/v1/delete
+2022-08-12T20:05:31.336Z | INFO    | API HIT : [POST] /api/users/v1/delete
+2022-08-12T20:05:31.338Z | ERROR   | [Invalid Route] /api/users/v1/delete
+2022-08-12T20:06:21.170Z | INFO    | API HIT : [POST] /api/users/v1/delete
+2022-08-12T20:06:21.171Z | ERROR   | [Invalid Route] /api/users/v1/delete
+2022-08-12T20:07:54.779Z | INFO    | API HIT : [DELETE] /api/users/v1/delete
+2022-08-12T20:07:54.781Z | ERROR   | URL : /api/users/v1/delete | staus : undefined | message: apiAuth is not defined
+2022-08-12T20:09:17.737Z | INFO    | API HIT : [DELETE] /api/users/v1/delete
+2022-08-12T20:09:32.067Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-12T20:09:38.586Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-13T03:58:32.356Z | INFO    | API HIT : [PUT] /api/users/v1/edit
+2022-08-13T04:08:44.741Z | INFO    | API HIT : [PUT] /api/users/v1/changepassword
+2022-08-13T04:08:44.983Z | ERROR   | URL : /api/users/v1/changepassword | staus : 400 | message: Old password is incorrect
+2022-08-13T04:09:13.545Z | INFO    | API HIT : [PUT] /api/users/v1/changepassword
+2022-08-13T04:09:13.695Z | ERROR   | URL : /api/users/v1/changepassword | staus : 400 | message: Old password is incorrect
+2022-08-13T04:10:13.157Z | INFO    | API HIT : [PUT] /api/users/v1/changepassword
+2022-08-13T08:49:35.714Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T08:50:29.861Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T08:51:26.773Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T08:53:02.225Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T08:54:05.935Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T08:54:24.239Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-13T08:54:24.424Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:76:25)
+2022-08-13T08:54:31.973Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-13T08:57:10.063Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T08:57:45.660Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:00:26.134Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:03:10.460Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:03:27.923Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-13T09:03:35.520Z | INFO    | API HIT : [GET] /api/users/v1/emaillist
+2022-08-13T09:04:22.233Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:05:23.003Z | INFO    | API HIT : [GET] /api/users/v1/register
+2022-08-13T09:05:23.006Z | ERROR   | [Invalid Route] /api/users/v1/register
+2022-08-13T09:05:29.908Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:05:56.312Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:07:33.782Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:07:57.236Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:08:44.609Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:09:19.522Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:10:14.260Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:11:33.151Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:12:20.227Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:12:28.013Z | INFO    | API HIT : [GET] /api/users/v1/emaillist
+2022-08-13T09:15:58.570Z | INFO    | API HIT : [POST] /api/groups/v1/create
+2022-08-13T09:15:58.635Z | ERROR   | URL - /api/groups/v1/create | status : 400 | message : User not found in the database
+2022-08-13T09:16:19.871Z | INFO    | API HIT : [POST] /api/groups/v1/create
+2022-08-13T09:20:42.090Z | INFO    | API HIT : [GET] /api/groups/v1/view
+2022-08-13T09:31:16.784Z | INFO    | API HIT : [GET] /api/groups/v1/groups
+2022-08-13T09:31:16.838Z | ERROR   | [Invalid Route] /api/groups/v1/groups
+2022-08-13T09:31:24.555Z | INFO    | API HIT : [POST] /api/groups/v1/groups
+2022-08-13T09:31:45.038Z | INFO    | API HIT : [POST] /api/groups/v1/groups
+2022-08-13T09:31:54.933Z | INFO    | API HIT : [POST] /api/groups/v1/groups
+2022-08-13T09:38:59.866Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-13T09:39:27.520Z | INFO    | API HIT : [PUT] /api/groups/v1/update
+2022-08-13T09:39:27.554Z | ERROR   | URL : /api/groups/v1/update | staus : 400 | message: Invalid Group Id
+2022-08-13T09:40:01.725Z | INFO    | API HIT : [GET] /api/groups/v1/view
+2022-08-13T09:40:17.852Z | INFO    | API HIT : [PUT] /api/groups/v1/update
+2022-08-13T09:40:26.759Z | INFO    | API HIT : [GET] /api/groups/v1/view
+2022-08-13T09:57:33.903Z | INFO    | API HIT : [POST] /api/groups/v1/makesettlement
+2022-08-13T09:57:53.034Z | INFO    | API HIT : [GET] /api/groups/v1/view
+2022-08-13T13:12:41.950Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:12:42.022Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:13:42.049Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:14:08.669Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:14:08.694Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:15:51.363Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:15:51.439Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:16:53.267Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:16:53.299Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:18:13.102Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:18:13.131Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:19:09.092Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:19:09.151Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:19:44.320Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:19:44.387Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:20:30.954Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:20:31.010Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:20:40.106Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:20:40.139Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:21:56.274Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:21:56.326Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:23:03.820Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:23:03.873Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:23:30.598Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:23:30.650Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-13T13:27:54.579Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-13T13:28:05.514Z | INFO    | API HIT : [GET] /api/groups/v1/view
+2022-08-13T13:34:21.744Z | INFO    | API HIT : [PUT] /api/expenses/v1/edit
+2022-08-13T13:34:21.805Z | ERROR   | URL : /api/expenses/v1/edit | staus : 400 | message: Invalid Expense Id
+2022-08-13T13:35:59.057Z | INFO    | API HIT : [PUT] /api/expenses/v1/edit
+2022-08-13T13:35:59.088Z | ERROR   | URL : /api/expenses/v1/edit | staus : 400 | message: Invalid Expense Id
+2022-08-13T13:36:44.723Z | INFO    | API HIT : [PUT] /api/expenses/v1/edit
+2022-08-13T13:39:09.842Z | INFO    | API HIT : [DELETE] /api/expenses/v1/edit
+2022-08-13T13:39:09.866Z | ERROR   | [Invalid Route] /api/expenses/v1/edit
+2022-08-13T13:39:18.405Z | INFO    | API HIT : [DELETE] /api/expenses/v1/delete
+2022-08-13T13:44:20.318Z | INFO    | API HIT : [POST] /api/expenses/v1/view
+2022-08-13T13:44:20.374Z | ERROR   | URL : /api/expenses/v1/view | staus : undefined | message: Cannot read properties of null (reading 'length')
+2022-08-13T13:44:36.662Z | INFO    | API HIT : [POST] /api/expenses/v1/view
+2022-08-13T13:44:36.692Z | ERROR   | URL : /api/expenses/v1/view | staus : undefined | message: Cannot read properties of null (reading 'length')
+2022-08-13T13:46:13.028Z | INFO    | API HIT : [POST] /api/expenses/v1/view
+2022-08-13T13:46:13.074Z | ERROR   | URL : /api/expenses/v1/view | staus : 400 | message: No expense present for the Id
+2022-08-13T13:47:37.825Z | INFO    | API HIT : [POST] /api/expenses/v1/group
+2022-08-13T13:47:37.852Z | ERROR   | URL : /api/expenses/v1/group | staus : 400 | message: No expense present for the group
+2022-08-13T13:55:20.569Z | INFO    | API HIT : [POST] /api/expenses/v1/user
+2022-08-13T13:55:20.628Z | ERROR   | URL : /api/expenses/v1/user | staus : 400 | message: No expense present for the user
+2022-08-13T13:58:58.968Z | INFO    | API HIT : [POST] /api/expenses/v1/recent
+2022-08-13T13:58:59.021Z | ERROR   | URL : /api/expenses/v1/recent | staus : 400 | message: No expense present for the user
+2022-08-13T13:59:20.620Z | INFO    | API HIT : [POST] /api/expenses/v1/recent
+2022-08-13T13:59:20.680Z | ERROR   | URL : /api/expenses/v1/recent | staus : 400 | message: No recent expense present for the user
+2022-08-13T14:13:49.347Z | INFO    | API HIT : [POST] /api/expenses/v1/recent
+2022-08-13T14:13:49.411Z | ERROR   | URL : /api/expenses/v1/recent | staus : 400 | message: No recent expense present for the user
+2022-08-13T14:14:08.486Z | INFO    | API HIT : [POST] /api/expenses/v1/group/categoryExp
+2022-08-13T14:14:08.490Z | ERROR   | [Invalid Route] /api/expenses/v1/group/categoryExp
+2022-08-13T14:14:27.480Z | INFO    | API HIT : [POST] /api/expenses/v1/group/categoryExp
+2022-08-13T14:17:25.733Z | INFO    | API HIT : [POST] /api/expenses/v1/group/dailyExp
+2022-08-13T14:17:54.858Z | INFO    | API HIT : [POST] /api/expenses/v1/group/monthlyExp
+2022-08-13T14:19:40.467Z | INFO    | API HIT : [POST] /api/expenses/v1/user/monthlyExp
+2022-08-13T14:21:21.971Z | INFO    | API HIT : [POST] /api/expenses/v1/user/categoryExp
+2022-08-13T14:23:05.444Z | INFO    | API HIT : [POST] /api/expenses/v1/user/dailyExp
+2022-08-13T18:46:29.271Z | INFO    | API HIT : [GET] /
+2022-08-13T18:46:29.291Z | ERROR   | [Invalid Route] /
+2022-08-14T15:28:17.224Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-14T15:31:17.445Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-14T15:32:42.535Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-14T15:33:49.764Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:33:49.892Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:34:25.444Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:34:25.571Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:34:50.452Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:34:50.571Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:35:19.175Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:35:19.380Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:36:11.534Z | INFO    | API HIT : [DELETE] /api/users/v1/delete
+2022-08-14T15:36:21.683Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:36:21.804Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:36:53.192Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:36:53.309Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:38:06.319Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:38:06.434Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:38:31.024Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:38:31.142Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:38:34.952Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:38:35.065Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:38:54.467Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:38:54.591Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:39:09.686Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:39:09.799Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:40:12.079Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:40:12.195Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:40:39.291Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:40:39.419Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:40:57.490Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:40:57.660Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:41:37.377Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-14T15:42:06.801Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:42:06.912Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:42:29.004Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:42:29.174Z | ERROR   | URL : /api/users/v1/login | staus : 400 | message: Password is incorrect, Please try again! Error: Password is incorrect, Please try again!
+    at exports.userLogin (C:\Users\narkh\Desktop\bill-splitter\controllers\userController.js:75:25)
+2022-08-14T15:42:48.646Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-14T15:42:55.793Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-14T15:43:20.959Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-14T15:45:33.092Z | INFO    | API HIT : [POST] /api/groups/v1/create
+2022-08-14T15:49:10.843Z | INFO    | API HIT : [POST] /api/groups/v1/create
+2022-08-14T15:53:21.073Z | INFO    | API HIT : [GET] /api/groups/v1/view
+2022-08-14T15:54:50.252Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T15:54:50.340Z | WARN    | Group User Valdation fail : Group ID : [62f76be360266035095dfdfc] | user : [shahrukh@gmail.com]
+2022-08-14T15:54:50.340Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please provide valid group owner
+2022-08-14T15:58:47.084Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T15:58:47.194Z | WARN    | Group User Valdation fail : Group ID : [62f76be360266035095dfdfc] | user : [shahrukh@gmail.com]
+2022-08-14T15:58:47.194Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please ensure the members exists in the group
+2022-08-14T16:00:10.161Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T16:00:10.254Z | ERROR   | URL - /api/expenses/v1/add | status : undefined | message : groupMembers.includes is not a function
+2022-08-14T16:00:59.382Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T16:00:59.498Z | WARN    | Group User Valdation fail : Group ID : [62f76be360266035095dfdfc] | user : [shahrukh@gmail.com]
+2022-08-14T16:00:59.498Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please ensure the members exists in the group
+2022-08-14T16:02:48.377Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T16:02:48.594Z | ERROR   | URL - /api/expenses/v1/add | status : undefined | message : expense validation failed: expenseDate: Cast to date failed for value "14/08/2022" (type string) at path "expenseDate"
+2022-08-14T16:03:44.014Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T16:03:44.311Z | ERROR   | URL - /api/expenses/v1/add | status : undefined | message : expense validation failed: expenseDate: Cast to date failed for value "13/08/2022" (type string) at path "expenseDate"
+2022-08-14T16:04:39.389Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T16:04:39.574Z | ERROR   | URL - /api/expenses/v1/add | status : undefined | message : expense validation failed: expenseDate: Cast to date failed for value "13-08-2022" (type string) at path "expenseDate"
+2022-08-14T16:04:58.761Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T16:04:58.793Z | ERROR   | URL - /api/expenses/v1/add | status : 400 | message : Please input the required field
+2022-08-14T16:06:11.847Z | INFO    | API HIT : [POST] /api/expenses/v1/add
+2022-08-14T16:06:28.337Z | INFO    | API HIT : [GET] /api/groups/v1/view
+2022-08-14T16:14:08.790Z | INFO    | API HIT : [POST] /api/groups/v1/makesettlement
+2022-08-14T16:14:21.788Z | INFO    | API HIT : [GET] /api/groups/v1/view
+2022-08-14T16:21:34.383Z | INFO    | API HIT : [POST] /api/groups/v1/makesettlement
+2022-08-15T12:23:40.553Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-15T12:23:51.881Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-15T12:24:27.256Z | INFO    | API HIT : [POST] /api/users/v1/profile
+2022-08-15T13:51:04.989Z | INFO    | API HIT : [POST] /api/expenses/v1/group/monthlyExp
+2022-08-15T13:51:25.463Z | INFO    | API HIT : [POST] /api/expenses/v1/user/monthlyExp
+2022-08-15T13:53:16.816Z | INFO    | API HIT : [POST] /api/groups/v1/groups
+2022-08-15T13:53:34.989Z | INFO    | API HIT : [POST] /api/expenses/v1/group
+2022-08-16T15:04:10.189Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:04:10.732Z | ERROR   | URL - /api/users/v1/register | status : 400 | message : Password validation fail!!
+2022-08-16T15:04:32.017Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:12:23.342Z | INFO    | API HIT : [POST] /api/v1/users/register
+2022-08-16T15:12:23.344Z | ERROR   | [Invalid Route] /api/v1/users/register
+2022-08-16T15:13:44.871Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:14:36.035Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:15:52.411Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:16:15.039Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:18:55.259Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:19:30.607Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:20:10.143Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:20:49.872Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:20:52.619Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:21:24.968Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:26:03.427Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:28:01.690Z | INFO    | API HIT : [POST] /api/users/v1/register
+2022-08-16T15:43:12.861Z | INFO    | API HIT : [POST] /api/users/v1/login
+2022-08-16T15:43:53.479Z | INFO    | API HIT : [POST] /api/users/v1/login
